@@ -8,6 +8,6 @@ Features
   
   Data Export: Exports the NDVI results as GeoTIFF files to Google Drive for further analysis.
 
-You can simply copy the code into GEE and run it. You should change the date, area and cloud cover if needed.
+You can simply copy the code into GEE and run it. You should change the date, area and cloud cover if needed. The exported image will be in grayscale.
 
 All scripts were created by KarlBenz1234 without the use of any AI.
